@@ -1,6 +1,6 @@
 import requests
 
-key = "AIzaSyCAqZoTJRfjgvpIJsuTuXsqRzF6tbfxnsI"
+key = "apiPerso"
 channel = "UCTmzT0st55PREearcmcCnNQ"
 
 
